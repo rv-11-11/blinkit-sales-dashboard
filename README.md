@@ -6,7 +6,7 @@ This project demonstrates interactive visualizations, data modeling, DAX usage, 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](blinkit_dashboard_screenshot.png)
 
 ---
 
@@ -98,3 +98,4 @@ This dashboard provides an end-to-end analysis of Blinkit’s sales and helps un
 Perfect for showcasing **Power BI, data analytics, and visualization skills**.
 
 ---
+
